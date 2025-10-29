@@ -21,6 +21,7 @@ To run the application, you must organize your files exactly as shown below:
 Action: Ensure you have created the data folder and placed all seven extracted CSV files inside it.
 🚀 Running the Streamlit App (VS Code)
 This is the standard and most reliable way to execute the application locally.
+
 Step 1: Install Dependencies
 Open your VS Code terminal and run the following command to install all necessary Python packages:
 pip install -r requirements.txt
